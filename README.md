@@ -1,4 +1,4 @@
-## Nmae:Harshitha D
+## Name:Harshitha D
 ## Reg no:212224040110
 # Ex.No:1a  			Study of Socket Programming
 
